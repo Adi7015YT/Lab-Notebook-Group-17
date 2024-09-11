@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the LaTeX source code for the Lab Notebook created by Team 9 for the Software Tools and Techniques course at Maulana Abul Kalam Azad University of Technology. The notebook documents our lab assignments and procedures.
+This repository contains the LaTeX source code for the Lab Notebook created by Team 17 for the Software Tools and Techniques course at Maulana Abul Kalam Azad University of Technology. The notebook documents our lab assignments and procedures.
 
 ## Repository Contents
 
