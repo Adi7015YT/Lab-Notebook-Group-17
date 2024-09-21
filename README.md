@@ -21,10 +21,16 @@ This repository contains the LaTeX source code for the Lab Notebook created by T
 3. **Team Members**
    - Details of each team member including names, registration numbers, courses, and GitHub links.
 
-4. **Lab Assignments**
+4. **Git Assignments**
    - Detailed procedures for:
      - **Assignment 1:** Creating and publishing a C program for a calculator.
      - **Assignment 2:** Fixing a button issue in a mind reader application and creating a pull request.
+     - **Assignment 3:** Demonstrating Git branching, merging, and conflict resolution.
+
+5. **LaTeX Assignments**
+   - Detailed procedures for:
+     - **Assignment 1:** Creating a LaTeX document and uploading the source, PDF, and image files.
+     - **Assignment 2:** Creating a CV using LaTeX.
 
 ## How to Compile
 
@@ -36,4 +42,4 @@ To compile the LaTeX file and generate the PDF, follow these steps:
 2. **Compile the LaTeX File:**
    Run the following command in your terminal:
    ```bash
-   pdflatex lab_notebook.tex
+   pdflatex main.tex
